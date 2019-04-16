@@ -1,0 +1,15 @@
+.details{ background-color:#74706F;
+color:white;
+height:500px;
+padding:20px;
+font-size:1.5em;
+}
+#widget{
+height:300px;
+background-color:#CAC695;
+color:white;
+padding:8px;
+}
+.left_nav{
+	border: 3px solid red;
+}
